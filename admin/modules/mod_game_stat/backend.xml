@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backend>    
+    <module>
+        <id>mod_game_stat</id>
+        <title>Статистика игр</title>
+    </module>
+    <params>
+		<param type="flag" name="count_online" title="Пользователей онлайн" default="on"/>
+		<param type="flag" name="count_all" title="Показывать кол-во игр за всё время" default="on"/>
+		<param type="flag" name="count_month" title="Показывать кол-во игр за месяц" default="on"/>
+		<param type="flag" name="count_week" title="Показывать кол-во игр за неделю" default="on"/>
+		<param type="flag" name="count_yesterday" title="Показывать кол-во игр вчера" default="on"/>
+		<param type="flag" name="count_today" title="Показывать кол-во игр сегодня" default="on"/>
+    </params>
+</backend>

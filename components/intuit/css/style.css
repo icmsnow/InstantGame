@@ -1,0 +1,35 @@
+div.intuit_list {
+    margin:15px 0px; padding:15px; border:1px solid #C3D6DF;
+    border-radius:8px;
+    -moz-border-radius:8px;
+}
+div.footer_bar {
+	 padding:15px 0px;
+}
+div.rival {
+	float: right;
+
+}
+div.status {
+	float: left;
+}
+tabl.tb_game{
+float: right;
+}
+
+.tb_game td{
+height: 30px;
+width: 30px;
+border:1px solid #C3D6DF;
+text-align: center;
+vertical-align: center;
+}
+
+div.status_bar {
+	width: 220px;
+    margin:15px 0px; padding:15px; border:1px solid #C3D6DF;
+    border-radius:8px;
+    -moz-border-radius:8px;
+	float: right;	
+}
+.pr{height: 20px;background-color:red};
